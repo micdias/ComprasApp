@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Compras</string>
+    <string name="categoria">Categoria: </string>
+    <string name="cor">Cor: </string>
+    <string name="NovoSetor">Novo Setor </string>
+    <string name="setor">Setor</string>
+    <string name="item">Item</string>
+
+
+</resources>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+<item
+    android:id="@+id/idMenuNovaCategoria"
+    android:showAsAction="always"
+    android:title="@string/NovoSetor"
+    />
+
+    <item
+        android:id="@+id/idMenuNovoItem"
+        android:showAsAction="always"
+        android:title="Item"
+        />
+
+    <item
+        android:id="@+id/idMenuListaCompras"
+        android:showAsAction="always"
+        android:title="Lista Compras"
+        />
+
+    <item
+        android:id="@+id/idMenuCadastroCompras"
+        android:showAsAction="always"
+        android:title="Cadasto Compras"
+        />
+
+
+</menu>
